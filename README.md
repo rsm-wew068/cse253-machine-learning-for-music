@@ -1,4 +1,4 @@
-# CSE253 Machine Learning for Music
+# [CSE253 Machine Learning for Music](https://github.com/rsm-wew068/muse-ai.git)
 
 The course covers fundamental audio signal processing, machine learning for music analysis, and advanced music generation techniques.
 
