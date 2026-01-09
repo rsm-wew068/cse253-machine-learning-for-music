@@ -108,7 +108,7 @@ The course covers fundamental audio signal processing, machine learning for musi
 1. **Task 1: Composer Classification** (`task1_composer_classification/`)
    - **Goal**: Classify classical composers from MIDI files
    - **Dataset**: MIDI files from 8 classical composers (Beethoven, Chopin, Bach, Liszt, Schubert, Haydn, Mozart, Schumann)
-   - **Approach**: XGBoost/LightGBM with MIDI feature extraction
+   - **Approach**: LightGBM with MIDI feature extraction
    - **Features**: Pitch/duration/velocity stats, interval bigrams, chord roots
    - **Performance**: ~57% accuracy (target: 70%)
    - **Challenge**: Distribution shift between train/test sets
